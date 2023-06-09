@@ -1,0 +1,37 @@
+allometry.csv
+
+This dataset contains measurements of tree dimensions and biomass. Data kindly provided by John
+Marshall, University of Idaho.
+Variables:
+• species - The tree species (PSME = Douglas fir, PIMO = Western white pine, PIPO = Ponderosa
+pine).
+• diameter - Tree diameter at 1.3m above ground (cm).
+• height - Tree height (m).
+• leafarea - Total leaf area (m2
+).
+• branchmass - Total (oven-dry) mass of branches (kg).
+
+plot(diameter, height)
+
+code the diameter to high and low based on diameter > 50
+    
+
+#############################
+anthropometry.csv
+
+Data were downloaded from http://mreed.umtri.umich.edu/mreed/downloads.html. Data include
+measurements of age, foot length, and height for 3898 children. These data are a small subset of
+many dozens of measurements on the same children, described in detail by Snyder (1977) (see above
+link for more information).
+Variables:
+• age - Age (years, converted from months in original dataset)
+• gender - Female or male
+• foot_length - Total foot length (mm)
+• height - Total height (cm)
+
+
+
+#####################
+howell.csv
+
+
